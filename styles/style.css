@@ -1,0 +1,27 @@
+html {
+  font-family: "Robote", sans-serif;
+}
+
+nav {
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  padding: 1rem;
+}
+nav ul li a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #57C5B6;
+  border-bottom: 2px solid transparent;
+  transition: 0.3s;
+}
+nav ul li a:hover {
+  border-bottom-color: #159895;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}/*# sourceMappingURL=style.css.map */
