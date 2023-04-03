@@ -1,5 +1,6 @@
 html {
   font-family: "Robote", sans-serif;
+  color: #333;
 }
 
 nav {
@@ -61,6 +62,7 @@ nav ul li a:hover {
   font-size: 2.5rem;
   margin-bottom: 80px;
   font-weight: 300;
+  color: #0077B6;
 }
 #servicos .cards {
   display: flex;
@@ -149,10 +151,11 @@ footer {
   border-top: 2px solid #0077B6;
   margin-top: 1rem;
   padding: 1.2rem;
-  background: linear-gradient(to left, #0077B6, #00B4D8, #CAF0F8);
+  background: linear-gradient(to left, #0077B6, #00B4D8);
+  color: #CAF0F8;
 }
 footer i {
-  color: red;
+  color: #e80000;
 }
 
 #curiosidades {
