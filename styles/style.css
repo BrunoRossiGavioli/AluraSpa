@@ -153,4 +153,28 @@ footer {
 }
 footer i {
   color: red;
+}
+
+#curiosidades {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5rem;
+}
+#curiosidades .conteudo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  text-align: center;
+}
+#curiosidades .conteudo h3 {
+  font-size: 1.5rem;
+}
+#curiosidades .conteudo h4 {
+  font-size: 1.25rem;
+  color: #0077B6;
+}
+#curiosidades .conteudo p {
+  width: 500px;
+  line-height: 1.25rem;
 }/*# sourceMappingURL=style.css.map */
