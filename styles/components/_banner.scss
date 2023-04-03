@@ -21,7 +21,7 @@
         }
 
         h2{
-            font-size: $tamanho-titulo / 2;
+            font-size: calc($tamanho-titulo / 2);
             color: $cor-secundaria;
         }
     }
